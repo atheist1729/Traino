@@ -1,6 +1,3 @@
-Sure! Here's a more **detailed and structured Markdown (.md) documentation** that you can use for your **Traino** language on GitHub. It includes all the features, syntax, installation instructions, and example usage.
-
----
 
 # **Traino: A Custom AI Programming Language for Building, Training, and Deploying Models**
 
@@ -262,7 +259,3 @@ If you’d like to contribute to Traino, please fork the repository and submit p
 ### **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
-
----
-
-This **detailed markdown documentation** should be perfect for your GitHub repository. It explains each aspect of **Traino** comprehensively, providing a clear structure for new users to understand and use the language. Let me know if you'd like any changes or additional sections!
